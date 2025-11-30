@@ -1,12 +1,12 @@
-Yo I am Paayas Akotkar bron in Dec 10 2001
+Yo I am `Paayas Akotkar` bron in Dec 10 2001 
 
-I started with C++ and ended up with Go
+I started with C++  and ended up with Go
 
 I am good with AngularJS, ReactJS, MySQL, lua, tcl
 
 I loving making pub-sub system
 
-Memories:
+## Memories:
          
             2011:
                   I created 10 projects in 3Dmax pure 3Dmax baby 
