@@ -38,9 +38,16 @@ Memories:
 Upcoming Projects:
 
                   Palti a card game made using ReactJS and Go
-                  Rada a chess engine made using C++, lua 
+                  Rada a chess game  made using C++, lua 
 
 Porgress of Upcoming Projects:
-                             Palti: 
-                                      - 
-                                    
+                              Rada:
+                                    working on finding possible king moves and moveahead algorithm is left
+                                    bitboard will be applied soon currently it is normal vector base as they say intermediate programming 
+
+                               Palti:
+                                     webserver has been implmented 
+                                     algorithms are done in the backend
+                                     designing is done in figma
+                                     now only left is implmenting the design in the frontend 
+                                     
