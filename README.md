@@ -4,6 +4,7 @@ I am good with AngularJS, ReactJS, MySQL, lua, tcl
 I loving making pub-sub system
 
 Memories:
+         
             2011:
                   I created 10 projects in 3Dmax pure 3Dmax baby 
 
