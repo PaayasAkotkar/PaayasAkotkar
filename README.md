@@ -9,42 +9,42 @@ I loving making pub-sub system
 ## Memories:
          
             2011:
-                  I created 10 projects in 3Dmax pure 3Dmax baby 
+                  created 10 projects in 3Dmax pure 3Dmax baby 
 
             2015: 
-                   I created a mod for NBA2k14 pc
+                   created a mod for NBA2k14 pc
 
             2016:
-                  my first inter-scholl basketball competition
+                   first inter-scholl basketball competition
                  
             2017:
-                  I created my own NBA2k14 roster modelled players and all pc
+                  created my own NBA2k14 roster modelled players and all pc
 
             2018:
-                  I created UI for ea cricket 2007 [the goat]
+                  created UI for ea cricket 2007 [the goat]
 
             2022 of OCT: 
-                        I started coding with C++
+                        started coding with C++
 
             2021-23:
                     Notes of anatomy that turned into book [I'll be releasing this soon]
 
             2023: 
-                  I got into web
+                  got into web
 
             2024:
-                 Went through surgery
+                 went through surgery
 
             2025 30 Nov:
-                         Launched my Project NYG on github
+                         launched my Project NYG on github
 
-
-Upcoming Projects:
+## Upcoming Projects:
 
                   Palti a card game made using ReactJS and Go
+                 
                   Rada a chess game  made using C++, lua 
 
-Porgress of Upcoming Projects:
+## Progress of Upcoming Projects:
                             
                               Rada:
                                     working on finding possible king moves and moveahead algorithm is left
@@ -55,4 +55,6 @@ Porgress of Upcoming Projects:
                                      algorithms are done in the backend
                                      designing is done in figma
                                      now only left is implmenting the design in the frontend 
+ ## Join Me:
+              Discord: Paayas10
                                      
