@@ -1,6 +1,9 @@
 Yo I am Paayas Akotkar bron in Dec 10 2001
+
 I started with C++ and ended up with Go
+
 I am good with AngularJS, ReactJS, MySQL, lua, tcl
+
 I loving making pub-sub system
 
 Memories:
@@ -42,6 +45,7 @@ Upcoming Projects:
                   Rada a chess game  made using C++, lua 
 
 Porgress of Upcoming Projects:
+                            
                               Rada:
                                     working on finding possible king moves and moveahead algorithm is left
                                     bitboard will be applied soon currently it is normal vector base as they say intermediate programming 
