@@ -42,7 +42,7 @@ I loving making pub-sub system
                  went through surgery 😢
 
             2025 30 Nov:
-                         launched my Project NYG on github 😄
+                         launched NYG on github 😄
 
 ## Upcoming Projects:
 
