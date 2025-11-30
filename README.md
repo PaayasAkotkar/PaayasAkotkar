@@ -26,6 +26,9 @@ I loving making pub-sub system
             2018:
                   created UI for ea cricket 2007 [the goat]
 
+            2020: 
+                 so many chess game so many
+
             2022 of OCT: 
                         started coding with C++
 
