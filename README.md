@@ -1,5 +1,8 @@
 Yo I am `Paayas Akotkar` bron in Dec 10 2001 
 
+[<img width="450" height="800" alt="paayas" src="https://github.com/user-attachments/assets/f77b529d-e878-4188-ad26-47282bc1929b" />
+](https://github.com/PaayasAkotkar/PaayasAkotkar/blob/main/paayas.jpg?raw=true)
+
 I started with C++  and ended up with Go
 
 I am good with AngularJS, ReactJS, MySQL, lua, tcl
