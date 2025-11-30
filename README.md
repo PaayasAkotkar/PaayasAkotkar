@@ -1,4 +1,4 @@
-Yo I am `Paayas Akotkar` bron in Dec 10 2001 
+Yo I am `Paayas Akotkar` born in Dec 10 2001 
 
 [<img width="450" height="800" alt="paayas" src="https://github.com/user-attachments/assets/f77b529d-e878-4188-ad26-47282bc1929b" />
 ](https://github.com/PaayasAkotkar/PaayasAkotkar/blob/main/paayas.jpg?raw=true)
@@ -12,37 +12,37 @@ I loving making pub-sub system
 ## Memories:
          
             2011:
-                  created 10 projects in 3Dmax pure 3Dmax baby 
+                  created 10 projects in 3Dmax pure 3Dmax baby 😎 
 
             2015: 
-                   created a mod for NBA2k14 pc
+                   created a mod for NBA2k14 pc 🎮
 
             2016:
-                   first inter-scholl basketball competition
+                   first inter-scholl basketball competition 🏀
                  
             2017:
-                  created my own NBA2k14 roster modelled players and all pc
+                  created my own NBA2k14 roster modelled players and all pc 🕶️
 
             2018:
-                  created UI for ea cricket 2007 [the goat]
+                  created UI for ea cricket 2007 [the goat] 🥎
 
             2020: 
-                 so many chess game so many
+                 so many chess game so many ♟️
 
             2022 of OCT: 
-                        started coding with C++
+                        started coding with C++ 🧮
 
             2021-23:
-                    Notes of anatomy that turned into book [I'll be releasing this soon]
+                    Notes of anatomy that turned into book [I'll be releasing this soon] 🎨
 
             2023: 
-                  got into web
+                  got into web 🌐
 
             2024:
-                 went through surgery
+                 went through surgery 😢
 
             2025 30 Nov:
-                         launched my Project NYG on github
+                         launched my Project NYG on github 😄
 
 ## Upcoming Projects:
 
