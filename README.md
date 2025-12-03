@@ -42,8 +42,8 @@ I loving making pub-sub system
          installed unreal engine on Intel 4200 hd 💀 
 
    
-       2022 of nov:
-       finally got the laptop
+            2022 of nov:
+               finally got the laptop
 
             2022 of OCT: 
                         started coding with C++ 🧮
@@ -58,10 +58,10 @@ I loving making pub-sub system
            2023: 
                coded  5% compiler writing with frotran I used intel provided fortran sutff
 
-2023 of jan: 
-         coded a projectile shooting game in unreal engine
+          2023 of jan: 
+                coded a projectile shooting game in unreal engine
 
-            2024:
+          2024:
                  went through surgery 😢
 
             2025 august:
