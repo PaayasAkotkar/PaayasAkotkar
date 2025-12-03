@@ -29,26 +29,25 @@ I loving making pub-sub system
             2020: 
                  so many chess game so many ♟️
 
-       2021 of june: 
-     started coding with java merely      endup up in a month 😅
+           2021 of june: 
+                 started coding with java merely 😅
  
-        2021:
-       started vibing with c# 
+          2021:
+             started vibing with c# only in unity 😅 
       
-      2021:
-       lost interest in coding and started improving my hobby drawing
+         2021:
+             started improving my hobby drawing
 
-       2021 of April: 
-         installed unreal engine on Intel 4200 hd 💀 
-
+         2021 of April: 
+             installed unreal engine on Intel 4200 hd 💀 
    
-            2022 of nov:
-               finally got the laptop
+         2022 of nov:
+               got the laptop 💻
 
-            2022 of OCT: 
-                        started coding with C++ 🧮
+         2022 of OCT: 
+                  started coding with C++ 🧮
 
-            2021-23:
+         2021-23:
                     Notes of anatomy that turned into book [I'll be releasing this soon] 🎨
 
 
