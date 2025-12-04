@@ -32,41 +32,44 @@ I loving making pub-sub system
             2021 of june: 
                           started coding with java merely 😅
  
-           2021:
+            2021:
                  started vibing with c# only in unity 😅 
       
-           2021:
+            2021:
                   started improving my hobby drawing
 
-           2021 of April: 
+            2021 of April: 
                          installed unreal engine on Intel 4200 hd 💀 
    
-           2022 of nov:
+            2022 of nov:
                        got the laptop 💻
 
-           2022 of OCT: 
+            2022 of OCT: 
                        started coding with C++ 🧮
 
-           2021-23:
+            2021-23:
                     Notes of anatomy that turned into book [I'll be releasing this soon] 🎨
 
 
-           2023: 
+            2023: 
                   got into web 🌐
 
-           2023: 
+            2023: 
                coded  5% compiler writing with frotran I used intel provided fortran sutff
 
-           2023 of jan: 
+            
+            2023 of jan: 
                         coded a projectile shooting game in unreal engine
 
-           2024:
+            
+            2024:
                  went through surgery 😢
 
-           2025 august:
+            
+            2025 august:
                        started coding back 
 
-           2025 30 Nov:
+            2025 30 Nov:
                        launched NYG on github 😄
 
 ## Upcoming Projects:
