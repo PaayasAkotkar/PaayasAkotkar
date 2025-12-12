@@ -78,7 +78,7 @@ I loving making pub-sub system
                                     working on finding possible king moves and moveahead algorithm is left
                                     bitboard will be applied soon currently it is normal vector base as they say intermediate programming 
 
-                               Palti:
+                              Palti:
                                      webserver has been implmented 
                                      algorithms are done in the backend
                                      designing is done in figma
