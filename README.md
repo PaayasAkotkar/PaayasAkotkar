@@ -12,10 +12,10 @@ I loving making pub-sub system
                   created 10 projects in 3Dmax pure 3Dmax baby 😎 
 
             2015: 
-                   created a mod for NBA2k14 pc 🎮
+                  created a mod for NBA2k14 pc 🎮
 
             2016:
-                   first inter-school basketball competition 🏀
+                  first inter-school basketball competition 🏀
                  
             2017:
                   created my own NBA2k14 roster modelled players in pc 🕶️
@@ -24,40 +24,40 @@ I loving making pub-sub system
                   created UI for ea cricket 2007 [the goat] 🥎
 
             2020: 
-                 so many chess game so many ♟️
+                  so many chess game so many ♟️
 
             2021 of june: 
-                          started coding with java merely 😅
+                  started coding with java merely 😅
  
             2021:
-                 started vibing with c# only in unity 😅 
+                  started vibing with c# only in unity 😅 
       
             2021:
                   started improving my hobby drawing
 
             2021 of apr: 
-                          installed unreal engine on Intel 4200 hd 💀 
+                  installed unreal engine on Intel 4200 hd 💀 
    
             2022 of nov:
-                        got the laptop 💻
+                  got the laptop 💻
 
             2022 of oct: 
-                        started coding with C++ 🧮
+                  started coding with C++ 🧮
 
             2021-23:
-                    Notes of anatomy that turned into book [I'll be releasing this soon] 🎨
+                  Notes of anatomy that turned into book [I'll be releasing this soon] 🎨
 
             2023: 
                   got into web 🌐
 
             2023: 
-                 coded  5% compiler writing with frotran I used intel provided fortran sutff
+                  coded  5% compiler writing with frotran I used intel provided fortran sutff
                  
             2023 of jan: 
-                        coded a projectile shooting game in unreal engine
+                  coded a projectile shooting game in unreal engine
                         
             2025 30 nov:
-                        launched NYG on github 😄
+                  launched NYG on github 😄
 
 ## Upcoming Projects:
 
