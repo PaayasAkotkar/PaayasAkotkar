@@ -56,12 +56,6 @@ I loving making pub-sub system
             2023 of jan: 
                         coded a projectile shooting game in unreal engine
                         
-            2024:
-                 went through surgery 😢
-                 
-            2025 august:
-                        started coding back 
-
             2025 30 nov:
                         launched NYG on github 😄
 
