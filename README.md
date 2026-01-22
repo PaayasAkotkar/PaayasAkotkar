@@ -1,4 +1,4 @@
-Yo I am `Paayas Akotkar` born in Dec 10 2001 
+Yo I am `Paayas Akotkar`
 
 I started with C++ gaming developement with unreal engine and ended up loving with web development
 
